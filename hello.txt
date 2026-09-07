@@ -5,3 +5,4 @@ feature-text
 HELLO SIMON!!!
 I'm adding even another line in here :)
 RAW
+This will probably be a conflict!
