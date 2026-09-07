@@ -4,3 +4,4 @@ Hej från feature-text!
 feature-text
 HELLO SIMON!!!
 I'm adding even another line in here :)
+RAW
